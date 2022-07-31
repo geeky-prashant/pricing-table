@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Pricing Table</h2>
-In this project, I have created a pricing plan UI design for website, <br />The project is built using HTML5 & CSS3.
+In this project, I have created a pricing plan UI design for website, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/pricing-table/"><strong>➥ Live Demo</strong></a>
 
